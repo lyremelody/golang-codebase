@@ -5,3 +5,4 @@
 * [002-create-module](https://go.dev/doc/tutorial/create-module)
 * [003-workspaces](https://go.dev/doc/tutorial/workspaces)
 * [004-web-service-gin](https://go.dev/doc/tutorial/web-service-gin)
+* [005-generics](https://go.dev/doc/tutorial/generics)
